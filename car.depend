@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1585587835 source:d:\Данила\Учеба\Языки программирования тренировка\car\car.cpp
+	<string>
+	<iostream>
+	"CAR.h"
+	<cstring>
+
+1585588799 d:\Данила\Учеба\Языки программирования тренировка\car\car.h
+	<iostream>
+	<cstring>
+
+1585588799 source:d:\Данила\Учеба\Языки программирования тренировка\car\main.cpp
+	<iostream>
+	"CAR.h"
+
